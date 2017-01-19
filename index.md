@@ -32,6 +32,7 @@ We have plenty of great things you could work on, here are some briefly describe
 And also remember that you can propose us with your ideas.
 
 * JSON AutoDescriptive AutoDiscover Objects  
+
 *Idea*: Hundreds of objects surround us daily in everyday environments. The idea is to be able to label the hundreds of objects that are around us and to have a control of all their relationships. For example, in a toy room, we can label the toys with a Physical Web. Then, using an application, we can know their characteristics, their information and their relationships with other toys in the own environment, such as a remote car with its control. We could generate an specific format, using the JSON standard to label the objects and create their relationships.  
 To be coded: The application has to deal with generating a backend to manage the objects and a web application to query the information about this near objects.
 
@@ -44,34 +45,40 @@ To reach the push goal this CMS has to be implemented using free services, we th
 *Skills needed*: Android, Firebase, Google Drive API.
 
 * Hospital Routing
+
 *Idea*: When going to a hospital to visit a relative or a friend we usually get lost as all the corridors look the same, sometimes we do not even know it which floor we are! The main idea here is, using PW beacons, develop a web or mobile app that tells us where we are. In that map we will see several switched off points and a bright one, telling us our current position. When we keep walking, we need to know to which beacon we are approaching and, when we are near it, refresh the layout to update the user’s position. It is important to keep control of the BT signal to do so and update the UI in the most user friendly way possible.
 
 *Skills needed*: Programming in JavaScript (Node.js and Angular.js), HTML5 and CSS3. Experience with Wireless development, including Bluetooth Low Energy.
 
 * Assistive Scanner
+
 *Idea*: Create a new PW scanner for the blind that looks for a unique marker (e.g. URL param &audio) that marks the web page as containing audio. The scanner loads the page, looking for JSON+LD which points to the audio. As user has this new scanner open, it reads aloud what it finds. Existing users can use exactly the same beacons (and standard PW scanner) to look at typical HTML pages.
 
 *Skills needed*: Web Languages.
 
 * Smartphone Auto Setting  
+
 *Idea*: Useful to autoset a preselected settings on the phone. E.g. When a user arrives to a place, its smartphone reads a particular beacon and it starts the silent mode.  
 To be coded: android app that automatically starts preselected settings on the phone
 
 *Skills needed*: Android, Firebase.
 
 * Guide me for blind people  
+
 *Idea*: For people with visual problems, some beacons in the path could help to provide further information about the place or to check if it is the correct destination, it can help to ensure that the beacon provides extra information about the place until the next beacon (if there are obstacles, stairs, wide corridor, etc.)  
 To be coded: Android app that detects different physical web beacons, check the distance and gives information via voice.
 
 *Skills needed*: nodeJS, angularJS, bootstrap, html
 
 * Local Air & Weather Info  
+
 *Idea*: To check weather information or other open data information, when a user arrives to a place, the beacon can tell, temperature, level of air pollution, etc.  
 To be coded: Android app that check a physical web beacon and gives relevant open data information with push notifications. Backend to set locations beacons and information.  
 
 *Skills needed*:  nodeJS, angularJS, bootstrap, html
 
 * Interactive License Plate for Drones  
+
 *Idea*: Drones are gonna be everywhere soon moving goods, medicines, and many more things. As we have the right to know what’s going on over our heads, the idea is that every drone has a PW beacon pointing to an url with information about his trip. This web page has to be dynamically generated each time the drone departs from a place to another, and if it’s in the range of the BLE radio, the user will have different informations about the drone and his trip or a fixed virtual license plate.  
 To be coded: The application has to deal with generating a backend for different users to register his drones, and have a link to a multi drone system. Also the front end consisting on a mobile site done in Polymer, Html5, or similar modern web languages with Material Design aspect.  
 
