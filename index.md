@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/google/physical-web/master/documentation/images/logo/logo-black.png" alt="Physical Web logo" style=" width="100px" height="100px""/>
 
-
 **## UPDATES:**
 
 On 19.1.2016:
@@ -97,8 +96,7 @@ Remember that the ideas you proposed us have to be enough consistent for a 3+ mo
 
 * [Project IBRI Drone](https://github.com/LiquidGalaxyLAB/IBRI_Drone)
 
-
-<img style=" width="100px" height="100px"" src="https://1.bp.blogspot.com/-kjyNsXXnHnU/VwjpqkXmLkI/AAAAAAADyv0/xeu6uSXkFKQ0UveRYQ163LjGGLkvVoO6A/s1600/IBRIlogo.png" alt="IBRI Drone"/>
+![](https://1.bp.blogspot.com/-kjyNsXXnHnU/VwjpqkXmLkI/AAAAAAADyv0/xeu6uSXkFKQ0UveRYQ163LjGGLkvVoO6A/s1600/IBRIlogo.png)
 
 *Student*: Moisés Lodeiro Santiago
 
@@ -108,7 +106,7 @@ The many Google Liquid Galaxy immersive and panoramic Google Earth viewer instan
 
 * [Project BYOP](https://github.com/LiquidGalaxyLAB/Liquid-Galaxy-POIs-Controller/blob/master/GSOC16.md)
 
- <img style=" width="100px" height="100px"" src="https://lh3.googleusercontent.com/HXo_rwK4HONJDfYw73IF1ISRmqC1hrNFxsJa8_X040E6i5VF1-7efUFRVfTwspSc53a2NA=s147" alt="IBRI Drone"/>
+![](https://lh3.googleusercontent.com/HXo_rwK4HONJDfYw73IF1ISRmqC1hrNFxsJa8_X040E6i5VF1-7efUFRVfTwspSc53a2NA=s147)
 
 *Student*: Iván Josa
 
@@ -118,9 +116,7 @@ Liquid Galaxy needed a bluetooth scanner which will interact with Physical Web (
 
 * [Project Smart Coffee Machine with proximity pairing](https://github.com/alexisduque/pw-coffee-machine)
 
-
-<img style=" width="400px" height="200px"" src="https://github.com/alexisduque/pw-coffee-machine/raw/master/documentation/images/pw-coffee-maker.jpg" alt="IBRI Drone"/>
-
+![](https://github.com/alexisduque/pw-coffee-machine/raw/master/documentation/images/pw-coffee-maker.jpg)
 
 *Student*: Alexis Duque
 
