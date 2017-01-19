@@ -39,6 +39,7 @@ To be coded: The application has to deal with generating a backend to manage the
 *Skills needed*: Programming in JavaScript (Node.js and Angular.js), HTML5 and CSS3. Experience with Wireless development, including Bluetooth Low Energy.
 
 * PW Museum Backend
+
 *Idea*: To push the use of Physical Web uses in museums, exhibitions and similar use cases, the idea is to develop a simple CMS that manages basic types of contents and info cards,  linking them to a PW beacon. Minimal contents type are text, images, audio and video. A map handling solution has to be included, to allocate and control the beacons deployed. Analytics will be welcome. The system has to handle the proximity to the beacon and refresh to the nearer contents with accuracy and thinking about the user behaviour.
 To reach the push goal this CMS has to be implemented using free services, we think of a Android Application as the core manager and CMS and Google Drive, Firebase (Spark) or similar free systems as database.
 
