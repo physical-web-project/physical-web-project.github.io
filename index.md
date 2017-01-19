@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/google/physical-web/master/documentation/images/logo/logo-black.png" alt="Physical Web logo" style=" width="100px" height="100px""/>
+![](https://storage.googleapis.com/rm-wp-production//2016/05/AAEAAQAAAAAAAAW4AAAAJGEzMjZlMmMxLWVkYTktNDYxMi04NTY5LWMwNzQzZmRjNTlkMw.png)
 
 **## UPDATES:**
 
@@ -115,8 +115,6 @@ Liquid Galaxy needed a bluetooth scanner which will interact with Physical Web (
 **More info**: [Bring Your Own Pois Web](https://github.com/LiquidGalaxyLAB/Liquid-Galaxy-POIs-Controller/blob/master/GSOC16.md)
 
 * [Project Smart Coffee Machine with proximity pairing](https://github.com/alexisduque/pw-coffee-machine)
-
-![](https://github.com/alexisduque/pw-coffee-machine/raw/master/documentation/images/pw-coffee-maker.jpg)
 
 *Student*: Alexis Duque
 
