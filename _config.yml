@@ -1,0 +1,8 @@
+title: GSoC Physical Web
+description: Physical Web Project based on the Physical Web
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
