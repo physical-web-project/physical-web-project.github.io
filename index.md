@@ -108,7 +108,7 @@ Remember that the ideas you proposed us have to be enough consistent for a 3+ mo
 
 *Student*: Moisés Lodeiro Santiago
 
-The many Google Liquid Galaxy immersive and panoramic Google Earth viewer instances installed around the world are visited daily by school or other kind of groups. The teacher or guide usually will want to show up certain contents. The idea was to develop a backend where you can enter locations in coordinates, for different users, generating the standard XML Point of Interest file of a Liquid Galaxy on a web url. A PW beacon own by the professor or guide will trigger a small hardware arduino or rpi based in a Liquid Galaxy system to download those POIS for a session.  
+IBRI project developed a system that will allow any person going to a walk or a trek in the mountains or around to have their own Physical Web beacon just in case an emergency happens. The IBRI project register the beacons on a database with data from the person, and a unique identifier recorded on the beacon. If the person gets lost in the mountains or wherever, a fleet of drones will look around the area to find the beacon signal, and giving this information to emergency systems.
 
 **More info**: [IBRI Drone Web](https://github.com/LiquidGalaxyLAB/IBRI_Drone)
 
