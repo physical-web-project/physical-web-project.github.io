@@ -28,7 +28,7 @@ The Physical Web Project is the Google Summer of Code proposal for university st
 
 ### Suggested GSoC 2017 Project Ideas
 
-We have plenty of great things you could work on, here are some briefly described and to be developed, but first take a look at the [ideas page](http://google.github.io/physical-web/cookbook/) from the main web site. 
+We have plenty of great things you could work on, here are some briefly described and to be developed, but first take a look at the [ideas page](http://google.github.io/physical-web/examples) from the main web site. 
 And also remember that you can propose us with your ideas.
 
 * JSON AutoDescriptive AutoDiscover Objects  
@@ -104,7 +104,7 @@ Remember that the ideas you proposed us have to be enough consistent for a 3+ mo
 
 * [Project IBRI Drone](https://github.com/LiquidGalaxyLAB/IBRI_Drone)
 
-![](https://1.bp.blogspot.com/-kjyNsXXnHnU/VwjpqkXmLkI/AAAAAAADyv0/xeu6uSXkFKQ0UveRYQ163LjGGLkvVoO6A/s1600/IBRIlogo.png)
+![](https://1.bp.blogspot.com/-wubOLhH-CR0/WICaWR8FGCI/AAAAAAAEsxg/BQtlxlleYxoGXAlKZfd2dfFM3NkeO38FACLcB/s1600/IBRIlogo150.png)
 
 *Student*: Moisés Lodeiro Santiago
 
