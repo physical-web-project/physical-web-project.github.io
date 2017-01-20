@@ -1,4 +1,4 @@
-![](https://storage.googleapis.com/rm-wp-production//2016/05/AAEAAQAAAAAAAAW4AAAAJGEzMjZlMmMxLWVkYTktNDYxMi04NTY5LWMwNzQzZmRjNTlkMw.png)
+![](https://3.bp.blogspot.com/-pjHcwR-cfMY/WIEMVxheEbI/AAAAAAAEsyk/X9XremDoABYP8F4JTA9GpRi37B1FG5ASwCLcB/s320/PWlogo.png)
 
 **## UPDATES:**
 
