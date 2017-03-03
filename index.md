@@ -2,6 +2,16 @@
 
 **## UPDATES:**
 
+On 1.3.2017
+We are again on the Google Summer of Code.
+Students can start to review our ideas page below and send emails to
+[physicalwebproject@gmail.com](mailto://physicalwebproject@gmail.com) with possible proposals and questions.
+Our mentor team will be answering your queries ASAP.
+We recommend to all students to look carefully at the [GSoC](https://summerofcode.withgoogle.com/) page
+and be ready for the march 20th project registering process.
+
+We look forward for your proposals. :)
+
 On 19.1.2016:
 
 Dear students from around the world.
