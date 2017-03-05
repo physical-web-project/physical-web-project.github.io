@@ -2,6 +2,20 @@
 
 **## UPDATES:**
 
+On 5.3.2017:
+
+Thank you for the expressed interest on our project, still ahead of the application window we have received almost a hundred inquiries.
+For all of you that want to apply to our project, we have created a initial test.
+You will have to solve two exercises to show up your coding abilities.
+
+Find the test in this [Google doc](https://docs.google.com/document/d/1t0i3wShrLADQGi3JtePmKksoWzvHvLJjKF2H9CwDGlI/edit?usp=sharing).
+
+You'll need to publish your code on a github repo and send the link back to us through our contact email.
+
+We'll be reviewing all applications and we'll be interviewing by hangout the developers we think have done a great code.
+
+**PLEASE: be polite, and do not copy the code**
+
 On 1.3.2017:
 
 We are again on the Google Summer of Code.
