@@ -2,6 +2,13 @@
 
 **## UPDATES:**
 
+On 10.3.2017:
+
+We've received a lot of your proposed solutions for our initial test, and we've been looking at the source and noted in our internal scoring system, that will help on your real application to the project if you finally present.
+As said in our last update we'll be contacting for a hangout only to the good coders, giving clues to all of you have sending code of how to act, but this process can be from now till april due to lots of requests.
+
+The application runs from March 20, 2017  to April 3, 2017, so stay tunned to https://summerofcode.withgoogle.com/ and in those days apply to the program in the Google control system.
+
 On 5.3.2017:
 
 Thank you for the expressed interest on our project, still ahead of the application window we have received almost a hundred inquiries.
