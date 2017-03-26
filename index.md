@@ -2,6 +2,13 @@
 
 **## UPDATES:**
 
+On 26.3.2017
+
+We've been reviewing the sample codes lots of you have sent, thank you!
+We can say that most of you are having trouble with the code, mostly for not issuing any kind of **tests** and some for other kind of little and not little problems, specially in the running median exercise.
+
+As we told you we're taking notes for our internal review process, but at this time **you have to go now** to the https://summerofcode.withgoogle.com page, make an account and upload your project. After this we'll contact the best project proposals with the best code abilities. A mentor will exchange some emails with you and if you are doing well we will set up a hangout.
+
 On 10.3.2017:
 
 We've received a lot of your proposed solutions for our initial test, and we've been looking at the source and noted in our internal scoring system, that will help on your real application to the project if you finally present.
