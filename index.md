@@ -2,6 +2,18 @@
 
 **## UPDATES:**
 
+On 31.3.2017
+
+Dear students, some final considerations before the deadline for the final PDF
+uploaded on the system:
+- Always to put your Google Doc with comments opened,it's impossible for us to comment if you have read only.
+- Nevertheless the status of the project, upload the doc to the system, we can not review now projects outside the Google GSoC system.
+- Have you prepared and uploaded the Proof of Enrollment? Some of you still have doubts about this, even non universitary students presenting projects.
+
+Thank you for the many proposals received and good luck to everybody!
+
+The mentor and admin team
+
 On 26.3.2017
 
 We've been reviewing the sample codes lots of you have sent, thank you!
