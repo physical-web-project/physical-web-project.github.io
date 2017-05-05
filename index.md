@@ -2,6 +2,18 @@
 
 **## UPDATES:**
 
+On 5.5.2017
+
+Dear students, Google has finally announced the winners, so congratulations to the selected students and thank you very much to the other students that have presented proposals, we apreciate your efforts but there's a limited number of interns available.
+
+Students selected: soon your mentor will be contacting you for the bonding period. Remember that the Community Bonding period is intended to help get you get ready to start contributing to our organization at full speed starting May 30th.
+
+You'll be working with your mentor and other org members on refining your project plan. This might include finalizing deadlines and milestones, adding more detail, figuring out potential issues, etc.
+
+So, let's start !!!
+
+The mentor and admin team
+
 On 31.3.2017
 
 Dear students, some final considerations before the deadline for the final PDF
