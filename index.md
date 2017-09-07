@@ -17,7 +17,7 @@ For your interest and code and knowledge sharing find here the details of all of
 
 **Github**: https://github.com/vipinraj/pw-hospital-routing
 
-
+-
 
 **Project**: Geographical Memories Project at Physical Web Project Organization
 
@@ -27,7 +27,7 @@ For your interest and code and knowledge sharing find here the details of all of
 
 **Github**: https://github.com/zurfyx/memories/wiki/GSoC-2017
 
-
+-
 
 **Project**: My meteorological station
 
@@ -37,7 +37,7 @@ For your interest and code and knowledge sharing find here the details of all of
 
 **Github**: https://github.com/gerard87/my-meteorological-station/blob/master/docs/GSOC17.md
 
-
+-
 
 **Project**: Physical Web Museum Backend
 
@@ -47,7 +47,7 @@ For your interest and code and knowledge sharing find here the details of all of
 
 **Github**: https://kayali.io/blog/gsoc-part-2/
 
-
+-
 
 **Project**: Smartphone Auto Settings Project
 
