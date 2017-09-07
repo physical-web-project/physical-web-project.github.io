@@ -2,6 +2,45 @@
 
 **## UPDATES:**
 
+On 7.9.2017
+
+Dear students, Google Summer of Code 2017 has ended.
+We're happy to see all the projects all the projects arriving to happy development end.
+
+For your interest and code and knowledge sharing find here the details of all of them:
+
+Project: Hospital Routing using Physical Web Beacons\
+Student: Vipin Raj KP\
+Mentors:  Iván Santos-González, Alexandra Rivero\
+Github: https://github.com/vipinraj/pw-hospital-routing
+
+Project: Geographical Memories Project at Physical Web Project Organization\
+Student: Gerard Rovira Sánchez\
+Mentors: Andres Ibanez, Julio Bondia, Ismael Arroyo, Alicia Martín Fernández\
+Github: https://github.com/zurfyx/memories/wiki/GSoC-2017
+
+Project: My meteorological station\
+Student: Gerard Farré Gomez\
+Mentors:  Andres Ibanez, Julio Bondia, Ismael Arroyo\
+Github: https://github.com/gerard87/my-meteorological-station/blob/master/docs/GSOC17.md
+
+Project: Physical Web Museum Backend\
+Student: Mohammad Kayali\
+Mentors: Andres Ibanez, Jorge Carballo, Fran Cabrera\
+Github: https://kayali.io/blog/gsoc-part-2/
+
+Project: Smartphone Auto Settings Project\
+Student: Savidu Dias\
+Mentors: Paco Martin Fernandez, Andreu Ibanez Sert\
+Github: https://github.com/Savidude/smartphone-auto-settings
+
+We thank you all the mentors for their support to the students, and
+students for being brave in his development tasks.
+
+And last but never least, from the admins of the Physical Web GSoC project, we look forward to continue working with you all.
+
+The mentor and admin team
+
 On 5.5.2017
 
 Dear students, Google has finally announced the winners, so congratulations to the selected students and thank you very much to the other students that have presented proposals, we apreciate your efforts but there's a limited number of interns available.
