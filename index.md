@@ -9,7 +9,7 @@ We're happy to see all the projects all the projects arriving to happy developme
 
 For your interest and code and knowledge sharing find here the details of all of them:
 
-**Project**: Hospital Routing using Physical Web Beacons
+**Project**: Hospital Routing using Physical Web Beacons \
 **Student**: Vipin Raj KP
 **Mentors**:  Iván Santos-González, Alexandra Rivero
 **Github**: https://github.com/vipinraj/pw-hospital-routing
